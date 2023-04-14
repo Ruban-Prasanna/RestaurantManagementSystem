@@ -1,0 +1,2 @@
+# RestaurantManagementSystem
+Requires Android.
